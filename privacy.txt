@@ -1,0 +1,1 @@
+The app does not have any connection to the internet nor does it look at any directories outside its own internal assets.
